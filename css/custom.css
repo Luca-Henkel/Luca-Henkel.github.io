@@ -137,10 +137,11 @@ a {
 .profile-photo {
   aspect-ratio: 3 / 4;
   border-radius: 6px;
+  box-shadow: 8px 9px 16px rgba(0, 0, 0, 0.24);
   display: block;
   max-width: 100%;
   object-fit: cover;
-  width: 180px;
+  width: 200px;
 }
 
 .status-badge {
