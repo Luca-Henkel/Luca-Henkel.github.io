@@ -18,7 +18,7 @@ b {
     font-weight: 600;
 }
 a {
-  color: #3277e6;
+  color: #2869cc;
 }
 
 .showAbstract[aria-expanded="false"]::after {
@@ -155,7 +155,7 @@ h5.section + .paper-title::before {
 
 #mainNav .nav-link:hover,
 #mainNav .nav-link:focus {
-  color: #3277e6;
+  color: #2869cc;
   text-decoration: underline;
   text-underline-offset: 0.25rem;
 }
@@ -202,7 +202,7 @@ h5.section + .paper-title::before {
 }
 
 .status-badge {
-  background-color: #3277e6;
+  background-color: #2869cc;
   color: #fff;
 }
 
@@ -228,7 +228,7 @@ h5.section + .paper-title::before {
 }
 
 .footer-links a {
-  color: #3277e6;
+  color: #2869cc;
 }
 
 @media (max-width: 991.98px) {
